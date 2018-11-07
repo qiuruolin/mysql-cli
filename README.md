@@ -153,16 +153,14 @@ alter table 表名 alter 字段名 set default 默认值;
 
   - inner join 内连接或等值连接
 
-  ![1541580878833](C:\Users\raeleneqiu\AppData\Roaming\Typora\typora-user-images\1541580878833.png)
-
-
+  ![内连接](./img/inner.png)
 
   - left join 左连接
 
-  ![1541580921569](C:\Users\raeleneqiu\AppData\Roaming\Typora\typora-user-images\1541580921569.png)
+  ![左连接](./img/left.png)
 
   - right join 右连接
 
-  ![1541580938849](C:\Users\raeleneqiu\AppData\Roaming\Typora\typora-user-images\1541580938849.png)
+  ![右连接](./img/right.png)
 
 
